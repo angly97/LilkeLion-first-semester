@@ -26,6 +26,7 @@
    
    
 2. 파일 업로드
+
     <img src="./img/Github_file_upload.png" width="50%" height="50%">
 
    
