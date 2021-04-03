@@ -20,7 +20,7 @@
 ### ▣ Web Hosting
 
 1. 저장소 이름 설정
-![ex_screenshot](./img/Github_repository_name_setting.png)
+   ![ex_screenshot](./img/Github_repository_name_setting.png)
    
    
    
