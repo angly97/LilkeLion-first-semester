@@ -1,4 +1,4 @@
-# LikeLion 9th Class
+# LIKELION 9TH CLASS
 
 _멋쟁이 사자처럼 at KOREATECH 민초현_
 
