@@ -99,7 +99,7 @@
 
      ```html
      <!-- action = "전송받을 대상"
-     	 name = 입력값의 변수명과 유사  -->
+          name = 입력값의 변수명과 유사  -->
      <form action = "receiver.php">
          ID: <input type = "text", name = "id">
          PW: <input type = "password", name = "pw">
@@ -138,8 +138,8 @@
      ```html
      <h2>나의 일대기</h2>
      <ol>
-         <li><a href = "1.html">유년기</a></li>
-     	<li><a href = "2.html">사춘기</a></li>
+      <li><a href = "1.html">유년기</a></li>
+      <li><a href = "2.html">사춘기</a></li>
      </ol>
      ```
 
