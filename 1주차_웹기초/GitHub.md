@@ -20,13 +20,12 @@
 ### ▣ Web Hosting
 
 1. 저장소 이름 설정
-
-   ![image-20210403200652285](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210403200652285.png)
-
+   ![ex_screenshot](./img/Github_repository_name_setting.png)
    
-
+   
+   
 2. 파일 업로드
-   ![image-20210403201013636](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210403201013636.png)
+   ![ex_screenshot](./img/Github_file_upload.png)
 
    
 
@@ -37,12 +36,11 @@
    * 깃허브를 통해 배포 시, index.html이 어디있는지 먼저 검사
 
    * 필요한 파일 전부 드래그하여 업로드
-
-     ![image-20210403201507090](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210403201507090.png)
+   ![ex_screenshot](./img/Github_file_drag_for_upload.png)
 
 
 
 4. 페이지 배포 확인
    * Settings → GitHub Pages
-     ![image-20210403201907099](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210403201907099.png)
+   ![ex_screenshot](./img/Github_hosting_completed.png)
 
