@@ -20,12 +20,13 @@
 ### ▣ Web Hosting
 
 1. 저장소 이름 설정
-   ![ex_screenshot](./img/Github_repository_name_setting.png)
+
+   ![ex_screenshot](./img/Github_repository_name_setting.png){: width="50%" height="50%"}
    
    
    
 2. 파일 업로드
-   ![ex_screenshot](./img/Github_file_upload.png)
+   ![ex_screenshot](./img/Github_file_upload.png){: width="50%" height="50%"}
 
    
 
@@ -36,11 +37,11 @@
    * 깃허브를 통해 배포 시, index.html이 어디있는지 먼저 검사
 
    * 필요한 파일 전부 드래그하여 업로드
-   ![ex_screenshot](./img/Github_file_drag_for_upload.png)
+   ![ex_screenshot](./img/Github_file_drag_for_upload.png){: width="50%" height="50%"}
 
 
 
 4. 페이지 배포 확인
    * Settings → GitHub Pages
-   ![ex_screenshot](./img/Github_hosting_completed.png)
+   ![ex_screenshot](./img/Github_hosting_completed.png){: width="50%" height="50%"}
 
