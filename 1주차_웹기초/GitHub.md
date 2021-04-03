@@ -21,12 +21,13 @@
 
 1. 저장소 이름 설정
 
-   ![ex_screenshot](./img/Github_repository_name_setting.png){: width="50%" height="50%"}
+   <img src="./img/Github_repository_name_setting.png" width=50% height=50%>
    
    
    
 2. 파일 업로드
-   ![ex_screenshot](./img/Github_file_upload.png){: width="50%" height="50%"}
+
+    <img src="./img/Github_file_upload.png, width="50%" height="50%">
 
    
 
