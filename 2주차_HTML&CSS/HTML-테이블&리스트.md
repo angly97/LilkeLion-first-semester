@@ -6,13 +6,13 @@
 
 * 테이블 태그
 
-  * '<table>' 태그	→	표를 담는 태그
+  * table 태그	→	표를 담는 태그
 
-  * '<tr>' 태그		→	표의 행					; table row
+  * tr 태그		→	표의 행					; table row
 
-  * '<th>' 태그		→	표의 속성 제목		; table heading
+  * th 태그		→	표의 속성 제목		; table heading
 
-  * '<td>' 태그		→	표의 속성 데이터	; table data
+  * td 태그		→	표의 속성 데이터	; table data
 
     ```html 
     <body>
@@ -97,7 +97,7 @@
 
 * 속성
 
-  * '<ol>' 태그
+  * ol 태그
 
     * start = "숫자"
 
@@ -151,7 +151,7 @@
       </ol>
       ```
 
-  * '<ul>' 태그
+  * ul 태그
 
     * value = "숫자"
 
