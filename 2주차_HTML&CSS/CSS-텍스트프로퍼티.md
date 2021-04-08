@@ -131,7 +131,7 @@
 
   * 문장 사이의 간격 조정
 
-    ![image-20210408140807241](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408140807241.png)
+    <img src = "./img/LineHeight.png" weight = 50% height = 50%>
 
   * 값
 
