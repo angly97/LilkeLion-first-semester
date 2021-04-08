@@ -10,7 +10,7 @@
 
 ### ▣ 구성
 
-![image-20210408151233712](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408151233712.png)
+<img src ="./img/BoxModel.png" width=50% height=50%>
 
 * 마진 (Margin)
 
@@ -72,7 +72,7 @@
       border-radius: 12px;
       ```
 
-      ![image-20210408154244530](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408154244530.png)
+      <img src = "./img/BorderRadius.png" width=50% height=50%>
 
       
 
