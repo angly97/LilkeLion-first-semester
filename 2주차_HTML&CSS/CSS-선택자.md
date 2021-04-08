@@ -115,7 +115,7 @@
 
     * 선택자A>선택자B {color: red;}
 
-      ![image-20210407215810849](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210407215810849.png)
+      ![image-20210407215810849](/img/SonSelector.png)
 
       ```html
       <!-- article 태그의 모든 자식 중 p태그와 일치하는 자식 -->
@@ -131,7 +131,7 @@
     * 선택자 A의 모든 후손 중 선택자 B와 일치하는 요소 선택
 
     * 선택자A 선택자B { color: red; }
-      ![image-20210407215616041](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210407215616041.png)
+      ![image-20210407215616041](/img/DesSelector.png)
 
       ```html
       <!-- article 태그의 모든 후손 중 p태그와 일치하는 자식 -->
