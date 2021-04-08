@@ -15,9 +15,13 @@
 * 마진 (Margin)
 
   * 경계선 밖 여백
+  * **앞으로는 늘 body 태그 margin을 0으로 초기화**
 
     ```html
-    margin: 20px;
+    body {
+      background-color: skyblue;
+	     margin: 0;
+    }
     ```
 
 * 경계선(Border)
