@@ -116,6 +116,7 @@
     * 선택자A>선택자B {color: red;}
 
        <img src="./img/SonSelector.png" width=50% height=50%>
+
       ```html
       <!-- article 태그의 모든 자식 중 p태그와 일치하는 자식 -->
       <head>
