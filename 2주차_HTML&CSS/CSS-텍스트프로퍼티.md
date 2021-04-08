@@ -131,7 +131,7 @@
 
   * 문장 사이의 간격 조정
 
-    <img src = "./img/LineHeight.png" weight = 50% height = 50%>
+    <img src = "./img/LineHeight.png" weight=40% height=40%>
 
   * 값
 
