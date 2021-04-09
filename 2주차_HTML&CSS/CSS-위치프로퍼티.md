@@ -243,6 +243,7 @@
       3. flex-end	→	오른쪽부터 정렬
       <img src = "./img/JustifyContentflex.png" width=50% height=50%>
 
+
       4. space-around	→	시작과 끝에 간격을 두고 동일한 간격으로 item 배치
 
       5. space-between	→	시작과 끝에 item 두고 동일한 간격으로 item 배치
@@ -270,8 +271,10 @@
       3. flex-end
       4. center
       <img src = "./img/JustifyContentAlignContent.png" width=50% height=50%>
+
       5. space-between
       6. space-around
+
       <img src = "./img/JustifyContentAlignContentSpace.png" width=50% height=50%>
 
 - 자식 요소에서 쓰이는 속성
