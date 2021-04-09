@@ -40,6 +40,7 @@
     * 기본 값
 
     * 좌표 프로퍼티 사용 불가능
+
       <img src = "./img/PositionStatic.png" width=50% height=50%>
       ```html
       <!-- top, left 위치 이동 지정 변화 없음 -->
