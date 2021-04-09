@@ -23,4 +23,7 @@ _멋쟁이 사자처럼 at KOREATECH 민초현_
     * [CSS 값과 단위](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%EA%B0%92%EA%B3%BC%EB%8B%A8%EC%9C%84.md)
     * [CSS 텍스트 프로퍼티](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%ED%85%8D%EC%8A%A4%ED%8A%B8%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
     * [CSS 박스 모델](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
+    * [CSS 위치 프로퍼티]()
+    * [CSS 상속과 우선순위]()
+    * [부트스트랩]()
    
