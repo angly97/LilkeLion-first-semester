@@ -42,6 +42,7 @@
     * 좌표 프로퍼티 사용 불가능
 
       <img src = "./img/PositionStatic.png" width=50% height=50%>
+
       ```html
       <!-- top, left 위치 이동 지정 변화 없음 -->
       #child1{
@@ -88,7 +89,8 @@
     * static 이나 relative 는 블록 요소처럼 작용 (child2 주목)
       <img src = "./img/PositionRelativeBlock.png" width=50% height=50%>
     * absolute는 인라인-블록 요소처럼 작용 (child2 주목)
-      <img src = "./img/PositionRelativeInline.png" width=50% height=50%>
+
+      <img src = "./img/PositionAbsoluteInline.png" width=50% height=50%>
 
   * fixed
 
