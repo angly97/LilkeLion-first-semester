@@ -40,8 +40,7 @@
     * 기본 값
 
     * 좌표 프로퍼티 사용 불가능
-      ![image-20210408172432867](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408172432867.png)
-
+      <img src = "./img/PositionStatic.png" width=50% height=50%>
       ```html
       <!-- top, left 위치 이동 지정 변화 없음 -->
       #child1{
@@ -62,7 +61,7 @@
     * 상대위치
 
     * 기본 위치를 기준으로 좌표 프로퍼티를 통해 이동
-      ![image-20210408172410687](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408172410687.png)
+      <img src = "./img/PositionRelative.png" width=50% height=50%>
 
       ```html
       <!-- top, left 위치 이동 지정 변화 -->
@@ -86,9 +85,9 @@
     * 부모나 조상 중 relative, absolute, fixed가 선언된 곳을 기준으로 좌표 이동
     * 부모가 움직이면 얘도 같이 움직임
     * static 이나 relative 는 블록 요소처럼 작용 (child2 주목)
-      ![image-20210408172323445](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408172323445.png)
+      <img src = "./img/PositionRelativeBlock.png" width=50% height=50%>
     * absolute는 인라인-블록 요소처럼 작용 (child2 주목)
-      ![image-20210408172706657](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210408172706657.png)
+      <img src = "./img/PositionRelativeInline.png" width=50% height=50%>
 
   * fixed
 
@@ -239,25 +238,25 @@
       2. center		→	가운데 정렬	
 
       3. flex-end	→	오른쪽부터 정렬
-
-         ![image-20210409134347590](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409134347590.png)
+      <img src = "./img/JustifyContentflex.png" width=50% height=50%>
 
       4. space-around	→	시작과 끝에 간격을 두고 동일한 간격으로 item 배치
 
       5. space-between	→	시작과 끝에 item 두고 동일한 간격으로 item 배치
 
-         ![image-20210409134650575](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409134650575.png)
+      
+      <img src = "./img/JustifyContentSpace.png" width=50% height=50%>
 
   - align-items
 
     - flex-direaction으로 정해진 방향의 수직으로 item 정렬
-      ![image-20210409135021920](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409135021920.png)
+      <img src = "./img/AlignItem.png" width=50% height=50%>
     - 값
       1. stretch (기본 값)	→	늘려서 맞춰줌
       2. flex-start	→	시작부터
       3. flex-end	→	끝부터
       4. center	→	가운데에 맞춰줌
-         ![image-20210409175340669](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409175340669.png)
+      <img src = "./img/JustifyContentAlignItems.png" width=50% height=50%>
 
   - align-content
 
@@ -267,10 +266,10 @@
       2. flex-start
       3. flex-end
       4. center
-         ![image-20210409175939820](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409175939820.png)
+      <img src = "./img/JustifyContentAlignContent.png" width=50% height=50%>
       5. space-between
       6. space-around
-         ![image-20210409180042862](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210409180042862.png)
+      <img src = "./img/JustifyContentAlignContentSpace.png" width=50% height=50%>
 
 - 자식 요소에서 쓰이는 속성
 
