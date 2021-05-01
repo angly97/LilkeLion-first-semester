@@ -106,6 +106,7 @@
   * aside 태그		 →	사이트의 주변 부분 (주로 광고 표시)
   * footer 태그	 →	가장 아래에 위치 (회사 정보 등 추가 정보)
 
+<hr>
   > cf. article vs section vs div
   >  * article: 내용이 독립적이고 스스로 설 수 있음
   >  * section: 내용이 서로 관련됨
