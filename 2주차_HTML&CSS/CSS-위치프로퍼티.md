@@ -41,7 +41,7 @@
 
     * 좌표 프로퍼티 사용 불가능 
 
-      <img src = "./img/PositionStatic.png" width=50% height=50%>
+      <img src = "./img/PositionStatic.PNG" width=50% height=50%>
 
 
 
@@ -53,7 +53,7 @@
     
     * 기존 static이었을 때 위치 기준으로 top, right, bottom, left 방향으로 주어진 픽셀만큼 이동
      
-      <img src = "./img/PositionRelative.png" width=50% height=50%>
+      <img src = "./img/PositionRelative.PNG" width=50% height=50%>
 
       ```html
       <!-- top, left 위치 이동 지정 변화 -->
