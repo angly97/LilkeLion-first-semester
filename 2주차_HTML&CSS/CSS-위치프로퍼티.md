@@ -39,45 +39,45 @@
 
     * 기본 값
 
-    * 좌표 프로퍼티 사용 불가능
+    * 좌표 프로퍼티 사용 불가능 
 
       <img src = "./img/PositionStatic.png" width=50% height=50%>
 
-      ```html
-      <!-- top, left 위치 이동 지정 변화 없음 -->
-      #child1{
-          position: relative;
-          top: 20px;
-          left: 20px
-      }
-      
-      #child2{
-          position: static;
-          top: 20px;
-          left: 20px
-      }
-      ```
+
 
   * relative
 
     * 상대위치
 
     * 기본 위치를 기준으로 좌표 프로퍼티를 통해 이동
+    
+    * 기존 static이었을 때 위치 기준으로 top, right, bottom, left 방향으로 주어진 픽셀만큼 이동
+     
       <img src = "./img/PositionRelative.png" width=50% height=50%>
 
       ```html
       <!-- top, left 위치 이동 지정 변화 -->
-      #child1{
+      .top{
           position: relative;
-          top: 20px;
-          left: 20px
+          top: 5px;
+          z-index: 1;
       }
       
-      #child2{
+      .right{
           position: relative;
-          top: 20px;
-          left: 20px
+          right: 5px;
       }
+
+     .bottom {
+       position: relative;
+       bottom: 5px;
+     }
+
+     .left {
+       position: relative;
+       left: 5px;
+     }
+
       ```
 
       
