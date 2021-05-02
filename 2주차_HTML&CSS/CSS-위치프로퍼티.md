@@ -68,15 +68,15 @@
           right: 5px;
       }
 
-     .bottom {
-       position: relative;
-       bottom: 5px;
-     }
-
-     .left {
-       position: relative;
-       left: 5px;
-     }
+      .bottom{
+         position: relative;
+         bottom: 5px;
+      }
+  
+      .left{
+         position: relative;
+         left: 5px;
+      }
 
       ```
 
