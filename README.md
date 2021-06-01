@@ -25,5 +25,10 @@ _멋쟁이 사자처럼 at KOREATECH 민초현_
     * [CSS 박스 모델](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8.md)
     * [CSS 위치 프로퍼티](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%EC%9C%84%EC%B9%98%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
     * [CSS 상속과 우선순위](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/CSS-%EC%83%81%EC%86%8D%26%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md)
-    * [부트스트랩](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9.md)
+    * [부트스트랩](https://github.com/angly97/LilkeLion-first-semester/blob/master/2%EC%A3%BC%EC%B0%A8_HTML%26CSS/%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9.md) 
+      
+  * [9주차 Django Settings]
+    * [기본설정 & 터미널 사용법](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/DjangoSettings-%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95%26%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+    * [Django 시작하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/DjangoSettings-%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95%26%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+    
    
