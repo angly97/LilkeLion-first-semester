@@ -8,7 +8,7 @@
 2. 파이썬 설치
 3. Git 설치
    1. 설치된 Git Bash에서 
-   2. git config --global user.name "민초현"
+   2. git config --global user.name "angly97"
    3. git config --global user.email "angly97@naver.com"
    4. git config --list   -> 사용자 이름과 이메일이 정상 등록되었는지 확인
 4. VS Code 설치
