@@ -63,7 +63,7 @@
 
 
 
-![image-20210604100137002](C:\Users\angly\AppData\Roaming\Typora\typora-user-images\image-20210604100137002.png)
+<img src ="./img/GitUploadSequence.png" width=50% height=50%>
 
 * 프로젝트 수정 시엔 7~9 만 수행
 
