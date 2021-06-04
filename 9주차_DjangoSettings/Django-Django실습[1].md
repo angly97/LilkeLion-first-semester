@@ -119,6 +119,7 @@
                path('admin/', admin.site.urls),
            
                # url 주소가 비어있음 = 서버 구동시키고 첫페이지가 welcome이라는 뜻
+               # views.welcome : views에서 welcome 함수 실행시킨다
                # name을 쓰는 이유: welcome을 다음부터는 url로 부른다는 건데, 다른 html에서 매번 url로 부르기 힘드니까 name으로 부르게 함
                path('', views.welcome, name="welcome")
            ]
