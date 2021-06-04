@@ -99,8 +99,8 @@
          # welcome함수를 호출하면 welcome.html 을 띄움
          def welcome(request):
              return render(request, "welcome.html")
-       ```
-
+        ```
+     
      * url과 view함수 연결하기
 
        * 우리는 네이버띄우고 싶으면 네이버 url을 치지 welcome함수 호출 안해
