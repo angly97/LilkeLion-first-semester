@@ -43,6 +43,5 @@ _멋쟁이 사자처럼 at KOREATECH 민초현_
     * [Media](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Media.md)
     * [Form](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Form.md)
     * [User 확장과 인증](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-User%ED%99%95%EC%9E%A5%26%EC%9D%B8%EC%A6%9D.md)
-    * 
     
    
