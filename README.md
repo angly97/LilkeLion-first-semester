@@ -29,6 +29,20 @@ _멋쟁이 사자처럼 at KOREATECH 민초현_
       
   * [9주차 Django Settings]
     * [기본설정 & 터미널 사용법](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/DjangoSettings-%EA%B8%B0%EB%B3%B8%EC%84%A4%EC%A0%95%26%ED%84%B0%EB%AF%B8%EB%84%90%EC%82%AC%EC%9A%A9%EB%B2%95.md)
-    * [Django 시작하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/DjangoSettings-Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+    * [Django 시작하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/DjangoSettings-Django%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)   
+    * [Django실습(1)](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Django%EC%8B%A4%EC%8A%B5%5B1%5D.md)
+    * [Django실습(2)](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Django%EC%8B%A4%EC%8A%B5%5B2%5D.md)
+    * [Git사용법](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Git%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+    * [Django와 데이터베이스](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Django%26%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+    * [CRUD-Read](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-CRUD-Read.md)
+    * [CRUD-Create](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-CRUD-Create.md)
+    * [CRUD-Update](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-CRUD-Update.md)
+    * [CRUD-Delete](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-CRUD-Delete.md)
+    * [Template 상속](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Template%EC%83%81%EC%86%8D.md)
+    * [Static](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Static.md)
+    * [Media](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Media.md)
+    * [Form](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Form.md)
+    * [User 확장과 인증](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-User%ED%99%95%EC%9E%A5%26%EC%9D%B8%EC%A6%9D.md)
+    * 
     
    
