@@ -43,5 +43,11 @@ _멋쟁이 사자처럼 at KOREATECH 민초현_
     * [Media](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Media.md)
     * [Form](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Form.md)
     * [User 확장과 인증](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-User%ED%99%95%EC%9E%A5%26%EC%9D%B8%EC%A6%9D.md)
+    * [Pagination](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Pagination.md)
+    * [배포사전준비](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-%EB%B0%B0%ED%8F%AC%EC%82%AC%EC%A0%84%EC%A4%80%EB%B9%84.md)
+    * [Heroku 배포하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Heroku%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
+    * [Ubuntu 배포하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Ubuntu%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
+    * [Docker](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Docker.md)
+    * 
     
    
