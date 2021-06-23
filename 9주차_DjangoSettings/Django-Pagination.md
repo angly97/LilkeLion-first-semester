@@ -10,8 +10,6 @@
 
 * http://127.0.0.1:8000/<strong>?page=1</strong>
 
-  * '<a href="?page=1">'
-
   
 
 ### ▣ 실습하기
