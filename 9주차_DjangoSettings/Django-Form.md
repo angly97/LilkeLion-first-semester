@@ -20,14 +20,14 @@
 1. blog 테이블에 맞는 forms.py를 블로그 앱에 생성
 
    ```python
-from django import forms
-from .models import Blog
-
-# 쟝고에서 지원하는 forms를 상속받음
-class BlogForm(forms.ModelForm):
-
-    # 이 정보를 가지고 Blog Form을 만들겠다
-    class Meta:
+   from django import forms
+   from .models import Blog
+   
+   # 쟝고에서 지원하는 forms를 상속받음
+   class BlogForm(forms.ModelForm):
+   
+   # 이 정보를 가지고 Blog Form을 만들겠다
+   class Meta:
         model = Blog
 
         # models.py에 있는 필드들 의미
