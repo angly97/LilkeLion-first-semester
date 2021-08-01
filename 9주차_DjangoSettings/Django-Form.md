@@ -20,23 +20,19 @@
 1. blog 테이블에 맞는 forms.py를 블로그 앱에 생성
 
    ```python
-   import os
-   
-   STATIC_URL = '/static/'
-   
-   # static 파일을 모으기 전에 현재 static 파일들이 어디있는 지 경로 써줌
-   STATICFILES_DIRS =[
-       os.path.join(BASE_DIR,'blog','static')
-   ]
-   # static 파일을 어디에 모을건지
-   STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-   
-   # 추가한 부분들!!
-   # 사용자가 업로드한 파일 모으기
-   MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-   
-   # 사용자가 업로드한 파일 보여줄 때 맨 앞에 나오는 url 설정
-   MEDIA_URL = '/media/'
+from django import forms
+from .models import Blog
+
+# 쟝고에서 지원하는 forms를 상속받음
+class BlogForm(forms.ModelForm):
+
+    # 이 정보를 가지고 Blog Form을 만들겠다
+    class Meta:
+        model = Blog
+
+        # models.py에 있는 필드들 의미
+        # pub_date는 글 작성시간을 자동으로 넣어야 하니까 form 가져오지 마
+        fields = ['title','writer','body','image']
    
    
    ```
