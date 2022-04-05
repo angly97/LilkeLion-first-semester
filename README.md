@@ -1,6 +1,6 @@
-# LIKELION 9TH CLASS
+# 교내 웹 개발 스터디 노트
 
-_멋쟁이 사자처럼 at KOREATECH 민초현_
+ at KOREATECH 민초현_
 
 
 ### ▣ CLASS NOTE 
