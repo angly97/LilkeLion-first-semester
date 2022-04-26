@@ -48,6 +48,4 @@
     * [Heroku 배포하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Heroku%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
     * [Ubuntu 배포하기](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Ubuntu%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
     * [Docker](https://github.com/angly97/LilkeLion-first-semester/blob/master/9%EC%A3%BC%EC%B0%A8_DjangoSettings/Django-Docker.md)
-    * 
-    
    
